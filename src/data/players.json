@@ -1,0 +1,4754 @@
+[
+  {
+    "name": "Kobel",
+    "club": "Borussia Dortmund",
+    "points": 52,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "A. Meyer",
+    "club": "Borussia Dortmund",
+    "points": 5,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 250,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Unbehaun",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lotka",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "N. Schlotterbeck",
+    "club": "Borussia Dortmund",
+    "points": 106,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mateu Morey",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 400,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ryerson",
+    "club": "Borussia Dortmund",
+    "points": 43,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Meunier",
+    "club": "Borussia Dortmund",
+    "points": 23,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "S. Coulibaly",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "A. Papadopoulos",
+    "club": "Borussia Dortmund",
+    "points": 2,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Rothe",
+    "club": "Borussia Dortmund",
+    "points": 4,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 360,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hummels",
+    "club": "Borussia Dortmund",
+    "points": 58,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Süle",
+    "club": "Borussia Dortmund",
+    "points": 49,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Raphaël Guerreiro",
+    "club": "Borussia Dortmund",
+    "points": 59,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Passlack",
+    "club": "Borussia Dortmund",
+    "points": 4,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": 310,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Wolf",
+    "club": "Borussia Dortmund",
+    "points": 46,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "N. Schulz",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Can",
+    "club": "Borussia Dortmund",
+    "points": 25,
+    "matches": "13 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kamara",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gürpüz",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pašalić",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Özcan",
+    "club": "Borussia Dortmund",
+    "points": 30,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bellingham",
+    "club": "Borussia Dortmund",
+    "points": 102,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Brandt",
+    "club": "Borussia Dortmund",
+    "points": 95,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dahoud",
+    "club": "Borussia Dortmund",
+    "points": 13,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Moukoko",
+    "club": "Borussia Dortmund",
+    "points": 52,
+    "matches": "17 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Haller",
+    "club": "Borussia Dortmund",
+    "points": 12,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Njinmah",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Adeyemi",
+    "club": "Borussia Dortmund",
+    "points": 26,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bynoe-Gittens",
+    "club": "Borussia Dortmund",
+    "points": 13,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Reus",
+    "club": "Borussia Dortmund",
+    "points": 30,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Malen",
+    "club": "Borussia Dortmund",
+    "points": 21,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Reyna",
+    "club": "Borussia Dortmund",
+    "points": 45,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Modeste",
+    "club": "Borussia Dortmund",
+    "points": 34,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Duranville",
+    "club": "Borussia Dortmund",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Neuer",
+    "club": "FC Bayern München",
+    "points": 43,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": 470,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ulreich",
+    "club": "FC Bayern München",
+    "points": 8,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 660,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schenk",
+    "club": "FC Bayern München",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sommer",
+    "club": "FC Bayern München",
+    "points": 46,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lucas Hernández",
+    "club": "FC Bayern München",
+    "points": 18,
+    "matches": "7 (7)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sarr",
+    "club": "FC Bayern München",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stanišić",
+    "club": "FC Bayern München",
+    "points": 13,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mazraoui",
+    "club": "FC Bayern München",
+    "points": 29,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "de Ligt",
+    "club": "FC Bayern München",
+    "points": 59,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Blind",
+    "club": "FC Bayern München",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Davies",
+    "club": "FC Bayern München",
+    "points": 44,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pavard",
+    "club": "FC Bayern München",
+    "points": 89,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Upamecano",
+    "club": "FC Bayern München",
+    "points": 65,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "João Cancelo",
+    "club": "FC Bayern München",
+    "points": 3,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Musiala",
+    "club": "FC Bayern München",
+    "points": 107,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ibrahimović",
+    "club": "FC Bayern München",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Goretzka",
+    "club": "FC Bayern München",
+    "points": 60,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gravenberch",
+    "club": "FC Bayern München",
+    "points": 13,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Wanner",
+    "club": "FC Bayern München",
+    "points": 2,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": 780,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kimmich",
+    "club": "FC Bayern München",
+    "points": 136,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "L. Sané",
+    "club": "FC Bayern München",
+    "points": 79,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gnabry",
+    "club": "FC Bayern München",
+    "points": 101,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tel",
+    "club": "FC Bayern München",
+    "points": 26,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "T. Müller",
+    "club": "FC Bayern München",
+    "points": 63,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Choupo-Moting",
+    "club": "FC Bayern München",
+    "points": 78,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Coman",
+    "club": "FC Bayern München",
+    "points": 55,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mané",
+    "club": "FC Bayern München",
+    "points": 63,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nickisch",
+    "club": "RB Leipzig",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gulácsi",
+    "club": "RB Leipzig",
+    "points": 15,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": 570,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nyland",
+    "club": "RB Leipzig",
+    "points": 5,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 290,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schlieck",
+    "club": "RB Leipzig",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Blaswich",
+    "club": "RB Leipzig",
+    "points": 27,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Simakan",
+    "club": "RB Leipzig",
+    "points": 32,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gvardiol",
+    "club": "RB Leipzig",
+    "points": 38,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Diallo",
+    "club": "RB Leipzig",
+    "points": 24,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Raum",
+    "club": "RB Leipzig",
+    "points": 40,
+    "matches": "18 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ba",
+    "club": "RB Leipzig",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Klostermann",
+    "club": "RB Leipzig",
+    "points": 9,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Halstenberg",
+    "club": "RB Leipzig",
+    "points": 43,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Henrichs",
+    "club": "RB Leipzig",
+    "points": 50,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Orbán",
+    "club": "RB Leipzig",
+    "points": 98,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Clark",
+    "club": "RB Leipzig",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Szoboszlai",
+    "club": "RB Leipzig",
+    "points": 92,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dani Olmo",
+    "club": "RB Leipzig",
+    "points": 53,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schlager",
+    "club": "RB Leipzig",
+    "points": 40,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Haidara",
+    "club": "RB Leipzig",
+    "points": 21,
+    "matches": "17 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Laimer",
+    "club": "RB Leipzig",
+    "points": 15,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Forsberg",
+    "club": "RB Leipzig",
+    "points": 33,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kampl",
+    "club": "RB Leipzig",
+    "points": 32,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "André Silva",
+    "club": "RB Leipzig",
+    "points": 56,
+    "matches": "19 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nkunku",
+    "club": "RB Leipzig",
+    "points": 102,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Y. Poulsen",
+    "club": "RB Leipzig",
+    "points": 18,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Werner",
+    "club": "RB Leipzig",
+    "points": 43,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Casteels",
+    "club": "VfL Wolfsburg",
+    "points": 74,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schulze",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Klinger",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pervan",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 310,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Cozza",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Fischer",
+    "club": "VfL Wolfsburg",
+    "points": 2,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 370,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lacroix",
+    "club": "VfL Wolfsburg",
+    "points": 35,
+    "matches": "15 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bornauw",
+    "club": "VfL Wolfsburg",
+    "points": 33,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lange",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Paulo Otávio",
+    "club": "VfL Wolfsburg",
+    "points": 62,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Baku",
+    "club": "VfL Wolfsburg",
+    "points": 87,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "van de Ven",
+    "club": "VfL Wolfsburg",
+    "points": 61,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Svanberg",
+    "club": "VfL Wolfsburg",
+    "points": 46,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Franjić",
+    "club": "VfL Wolfsburg",
+    "points": 10,
+    "matches": "5 (4)",
+    "pointsPerMatch": null,
+    "price": 380,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ambros",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 340,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Paredes",
+    "club": "VfL Wolfsburg",
+    "points": 33,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Guilavogui",
+    "club": "VfL Wolfsburg",
+    "points": 25,
+    "matches": "13 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "F. Nmecha",
+    "club": "VfL Wolfsburg",
+    "points": 50,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gerhardt",
+    "club": "VfL Wolfsburg",
+    "points": 46,
+    "matches": "15 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Arnold",
+    "club": "VfL Wolfsburg",
+    "points": 115,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Waldschmidt",
+    "club": "VfL Wolfsburg",
+    "points": 9,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "L. Nmecha",
+    "club": "VfL Wolfsburg",
+    "points": 44,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pejčinović",
+    "club": "VfL Wolfsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 300,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Marmoush",
+    "club": "VfL Wolfsburg",
+    "points": 31,
+    "matches": "19 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "J. Kaminski",
+    "club": "VfL Wolfsburg",
+    "points": 26,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Wind",
+    "club": "VfL Wolfsburg",
+    "points": 46,
+    "matches": "11 (10)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "P. Wimmer",
+    "club": "VfL Wolfsburg",
+    "points": 43,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Langer",
+    "club": "FC Schalke 04",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Heekeren",
+    "club": "FC Schalke 04",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schwolow",
+    "club": "FC Schalke 04",
+    "points": 26,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": 750,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Fährmann",
+    "club": "FC Schalke 04",
+    "points": 15,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Uronen",
+    "club": "FC Schalke 04",
+    "points": 10,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Aydin",
+    "club": "FC Schalke 04",
+    "points": 12,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 390,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Matriciani",
+    "club": "FC Schalke 04",
+    "points": 14,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 780,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Greiml",
+    "club": "FC Schalke 04",
+    "points": 2,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "I. Cissé",
+    "club": "FC Schalke 04",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ouwejan",
+    "club": "FC Schalke 04",
+    "points": 28,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Yoshida",
+    "club": "FC Schalke 04",
+    "points": 53,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jenz",
+    "club": "FC Schalke 04",
+    "points": 10,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "van den Berg",
+    "club": "FC Schalke 04",
+    "points": 7,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 580,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tauer",
+    "club": "FC Schalke 04",
+    "points": 2,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 580,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Brunner",
+    "club": "FC Schalke 04",
+    "points": 36,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kolodziejczak",
+    "club": "FC Schalke 04",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Kaminski",
+    "club": "FC Schalke 04",
+    "points": 3,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 450,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mohr",
+    "club": "FC Schalke 04",
+    "points": 32,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ivan",
+    "club": "FC Schalke 04",
+    "points": -1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Latza",
+    "club": "FC Schalke 04",
+    "points": 9,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": 520,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Král",
+    "club": "FC Schalke 04",
+    "points": 26,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Balanta",
+    "club": "FC Schalke 04",
+    "points": 2,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Boujellab",
+    "club": "FC Schalke 04",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Drexler",
+    "club": "FC Schalke 04",
+    "points": 22,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": 870,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Krauß",
+    "club": "FC Schalke 04",
+    "points": 56,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Zalazar",
+    "club": "FC Schalke 04",
+    "points": 22,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Skarke",
+    "club": "FC Schalke 04",
+    "points": 8,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Terodde",
+    "club": "FC Schalke 04",
+    "points": 49,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Frey",
+    "club": "FC Schalke 04",
+    "points": 10,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bülter",
+    "club": "FC Schalke 04",
+    "points": 40,
+    "matches": "20 (20)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kozuki",
+    "club": "FC Schalke 04",
+    "points": 13,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "S. Sané",
+    "club": "FC Schalke 04",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 460,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Polter",
+    "club": "FC Schalke 04",
+    "points": 27,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": 250,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Karaman",
+    "club": "FC Schalke 04",
+    "points": 1,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 370,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Goller",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Christensen",
+    "club": "Hertha BSC",
+    "points": 22,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ernst",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kwasigroch",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kempf",
+    "club": "Hertha BSC",
+    "points": 59,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pekarik",
+    "club": "Hertha BSC",
+    "points": 3,
+    "matches": "3 (2)",
+    "pointsPerMatch": null,
+    "price": 350,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Agustín Rogel",
+    "club": "Hertha BSC",
+    "points": 8,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 540,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kenny",
+    "club": "Hertha BSC",
+    "points": 38,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Eitschberger",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Dárdai",
+    "club": "Hertha BSC",
+    "points": 7,
+    "matches": "7 (6)",
+    "pointsPerMatch": null,
+    "price": 320,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Uremović",
+    "club": "Hertha BSC",
+    "points": 5,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 920,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Plattenhardt",
+    "club": "Hertha BSC",
+    "points": 33,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mittelstädt",
+    "club": "Hertha BSC",
+    "points": 16,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Šunjić",
+    "club": "Hertha BSC",
+    "points": 26,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": 930,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kesik",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "K. Boateng",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "9 (9)",
+    "pointsPerMatch": null,
+    "price": 330,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tousart",
+    "club": "Hertha BSC",
+    "points": 42,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ciğerci",
+    "club": "Hertha BSC",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Boëtius",
+    "club": "Hertha BSC",
+    "points": 17,
+    "matches": "14 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Serdar",
+    "club": "Hertha BSC",
+    "points": 60,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Aksakal",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kanga",
+    "club": "Hertha BSC",
+    "points": 38,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ejuke",
+    "club": "Hertha BSC",
+    "points": 27,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": 460,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Niederlechner",
+    "club": "Hertha BSC",
+    "points": 53,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Scherhant",
+    "club": "Hertha BSC",
+    "points": -2,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": 500,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Richter",
+    "club": "Hertha BSC",
+    "points": 49,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lukébakio",
+    "club": "Hertha BSC",
+    "points": 78,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ngankam",
+    "club": "Hertha BSC",
+    "points": 2,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nsona",
+    "club": "Hertha BSC",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jovetić",
+    "club": "Hertha BSC",
+    "points": 25,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Simoni",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ramaj",
+    "club": "Eintracht Frankfurt",
+    "points": 5,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 330,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Trapp",
+    "club": "Eintracht Frankfurt",
+    "points": 38,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Grahl",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hasebe",
+    "club": "Eintracht Frankfurt",
+    "points": 19,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "C. Lenz",
+    "club": "Eintracht Frankfurt",
+    "points": 34,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Touré",
+    "club": "Eintracht Frankfurt",
+    "points": 4,
+    "matches": "3 (2)",
+    "pointsPerMatch": null,
+    "price": 530,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tuta",
+    "club": "Eintracht Frankfurt",
+    "points": 36,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "N'Dicka",
+    "club": "Eintracht Frankfurt",
+    "points": 41,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Smolčić",
+    "club": "Eintracht Frankfurt",
+    "points": 19,
+    "matches": "7 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Buta",
+    "club": "Eintracht Frankfurt",
+    "points": 26,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schröder",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "P. Max",
+    "club": "Eintracht Frankfurt",
+    "points": 3,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dina Ebimbe",
+    "club": "Eintracht Frankfurt",
+    "points": 33,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Loune",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Aaronson",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Wenig",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jakić",
+    "club": "Eintracht Frankfurt",
+    "points": 38,
+    "matches": "17 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lindstrøm",
+    "club": "Eintracht Frankfurt",
+    "points": 73,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Götze",
+    "club": "Eintracht Frankfurt",
+    "points": 63,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Rode",
+    "club": "Eintracht Frankfurt",
+    "points": 45,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Chandler",
+    "club": "Eintracht Frankfurt",
+    "points": 2,
+    "matches": "4 (3)",
+    "pointsPerMatch": null,
+    "price": 250,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Knauff",
+    "club": "Eintracht Frankfurt",
+    "points": 23,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sow",
+    "club": "Eintracht Frankfurt",
+    "points": 62,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kamada",
+    "club": "Eintracht Frankfurt",
+    "points": 85,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lucas Alario",
+    "club": "Eintracht Frankfurt",
+    "points": 17,
+    "matches": "12 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nacho Ferri",
+    "club": "Eintracht Frankfurt",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kolo Muani",
+    "club": "Eintracht Frankfurt",
+    "points": 93,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Alidou",
+    "club": "Eintracht Frankfurt",
+    "points": 7,
+    "matches": "9 (8)",
+    "pointsPerMatch": null,
+    "price": 420,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Borré",
+    "club": "Eintracht Frankfurt",
+    "points": 41,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Busk",
+    "club": "1. FC Union Berlin",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "L. Grill",
+    "club": "1. FC Union Berlin",
+    "points": -5,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 260,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Rönnow",
+    "club": "1. FC Union Berlin",
+    "points": 58,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Juranović",
+    "club": "1. FC Union Berlin",
+    "points": 3,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Diogo Leite",
+    "club": "1. FC Union Berlin",
+    "points": 30,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Doekhi",
+    "club": "1. FC Union Berlin",
+    "points": 64,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Trimmel",
+    "club": "1. FC Union Berlin",
+    "points": 46,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Knoche",
+    "club": "1. FC Union Berlin",
+    "points": 54,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Roussillon",
+    "club": "1. FC Union Berlin",
+    "points": 5,
+    "matches": "7 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jaeckel",
+    "club": "1. FC Union Berlin",
+    "points": 23,
+    "matches": "12 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gießelmann",
+    "club": "1. FC Union Berlin",
+    "points": 43,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Baumgartl",
+    "club": "1. FC Union Berlin",
+    "points": 5,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 850,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pantović",
+    "club": "1. FC Union Berlin",
+    "points": 12,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": 500,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Thorsby",
+    "club": "1. FC Union Berlin",
+    "points": 20,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": 810,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "R. Khedira",
+    "club": "1. FC Union Berlin",
+    "points": 31,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schäfer",
+    "club": "1. FC Union Berlin",
+    "points": 15,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": 670,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Laïdouni",
+    "club": "1. FC Union Berlin",
+    "points": -2,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Öztunali",
+    "club": "1. FC Union Berlin",
+    "points": 5,
+    "matches": "2 (1)",
+    "pointsPerMatch": null,
+    "price": 500,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Möhwald",
+    "club": "1. FC Union Berlin",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Haberer",
+    "club": "1. FC Union Berlin",
+    "points": 50,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Seguin",
+    "club": "1. FC Union Berlin",
+    "points": 26,
+    "matches": "12 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Maciejewski",
+    "club": "1. FC Union Berlin",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jordan",
+    "club": "1. FC Union Berlin",
+    "points": 59,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Michel",
+    "club": "1. FC Union Berlin",
+    "points": 33,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "S. Becker",
+    "club": "1. FC Union Berlin",
+    "points": 92,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Behrens",
+    "club": "1. FC Union Berlin",
+    "points": 61,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Leweling",
+    "club": "1. FC Union Berlin",
+    "points": 14,
+    "matches": "9 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Leneis",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Koubek",
+    "club": "FC Augsburg",
+    "points": 10,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 260,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Klein",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gikiewicz",
+    "club": "FC Augsburg",
+    "points": 64,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Iago",
+    "club": "FC Augsburg",
+    "points": 12,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": 690,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Pedersen",
+    "club": "FC Augsburg",
+    "points": 26,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Uduokhai",
+    "club": "FC Augsburg",
+    "points": 18,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Oxford",
+    "club": "FC Augsburg",
+    "points": 6,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gumny",
+    "club": "FC Augsburg",
+    "points": 34,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Bauer",
+    "club": "FC Augsburg",
+    "points": 18,
+    "matches": "15 (14)",
+    "pointsPerMatch": null,
+    "price": 410,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Zehnter",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 240,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gouweleeuw",
+    "club": "FC Augsburg",
+    "points": 44,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Čolina",
+    "club": "FC Augsburg",
+    "points": 11,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Engels",
+    "club": "FC Augsburg",
+    "points": 19,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Veiga",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "D. Caligiuri",
+    "club": "FC Augsburg",
+    "points": 17,
+    "matches": "11 (8)",
+    "pointsPerMatch": null,
+    "price": 670,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Vargas",
+    "club": "FC Augsburg",
+    "points": 23,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Baumgartlinger",
+    "club": "FC Augsburg",
+    "points": 9,
+    "matches": "7 (7)",
+    "pointsPerMatch": null,
+    "price": 740,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Strobl",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kömür",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dorsch",
+    "club": "FC Augsburg",
+    "points": 6,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "A. Maier",
+    "club": "FC Augsburg",
+    "points": 28,
+    "matches": "15 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Rexhbecaj",
+    "club": "FC Augsburg",
+    "points": 26,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jensen",
+    "club": "FC Augsburg",
+    "points": 24,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": 860,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mbuku",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Cardona",
+    "club": "FC Augsburg",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Yeboah",
+    "club": "FC Augsburg",
+    "points": 6,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Demirović",
+    "club": "FC Augsburg",
+    "points": 66,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Beljo",
+    "club": "FC Augsburg",
+    "points": 7,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hahn",
+    "club": "FC Augsburg",
+    "points": 21,
+    "matches": "7 (7)",
+    "pointsPerMatch": null,
+    "price": 490,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sergio Córdova",
+    "club": "FC Augsburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sarenren-Bazee",
+    "club": "FC Augsburg",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 410,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Berisha",
+    "club": "FC Augsburg",
+    "points": 57,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Flekken",
+    "club": "Sport-Club Freiburg",
+    "points": 52,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Atubolu",
+    "club": "Sport-Club Freiburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Uphoff",
+    "club": "Sport-Club Freiburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ezekwem",
+    "club": "Sport-Club Freiburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sildillia",
+    "club": "Sport-Club Freiburg",
+    "points": 21,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "K. Schmidt",
+    "club": "Sport-Club Freiburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lienhart",
+    "club": "Sport-Club Freiburg",
+    "points": 65,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kübler",
+    "club": "Sport-Club Freiburg",
+    "points": 35,
+    "matches": "8 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "C. Günter",
+    "club": "Sport-Club Freiburg",
+    "points": 44,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "J. Schmid",
+    "club": "Sport-Club Freiburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 300,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gulde",
+    "club": "Sport-Club Freiburg",
+    "points": 2,
+    "matches": "6 (4)",
+    "pointsPerMatch": null,
+    "price": 360,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ginter",
+    "club": "Sport-Club Freiburg",
+    "points": 84,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Grifo",
+    "club": "Sport-Club Freiburg",
+    "points": 121,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Weißhaupt",
+    "club": "Sport-Club Freiburg",
+    "points": 12,
+    "matches": "9 (9)",
+    "pointsPerMatch": null,
+    "price": 470,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Keitel",
+    "club": "Sport-Club Freiburg",
+    "points": 14,
+    "matches": "14 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "R. Wagner",
+    "club": "Sport-Club Freiburg",
+    "points": 1,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": 260,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sallai",
+    "club": "Sport-Club Freiburg",
+    "points": 16,
+    "matches": "9 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kyereh",
+    "club": "Sport-Club Freiburg",
+    "points": 19,
+    "matches": "12 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Röhl",
+    "club": "Sport-Club Freiburg",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Eggestein",
+    "club": "Sport-Club Freiburg",
+    "points": 37,
+    "matches": "18 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Höfler",
+    "club": "Sport-Club Freiburg",
+    "points": 44,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Doan",
+    "club": "Sport-Club Freiburg",
+    "points": 48,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jeong",
+    "club": "Sport-Club Freiburg",
+    "points": 17,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Höler",
+    "club": "Sport-Club Freiburg",
+    "points": 26,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gregoritsch",
+    "club": "Sport-Club Freiburg",
+    "points": 91,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Petersen",
+    "club": "Sport-Club Freiburg",
+    "points": 15,
+    "matches": "15 (12)",
+    "pointsPerMatch": null,
+    "price": 820,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Rieß",
+    "club": "1. FSV Mainz 05",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Zentner",
+    "club": "1. FSV Mainz 05",
+    "points": 33,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dahmen",
+    "club": "1. FSV Mainz 05",
+    "points": 3,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bell",
+    "club": "1. FSV Mainz 05",
+    "points": 30,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Widmer",
+    "club": "1. FSV Mainz 05",
+    "points": 47,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Leitsch",
+    "club": "1. FSV Mainz 05",
+    "points": 11,
+    "matches": "9 (9)",
+    "pointsPerMatch": null,
+    "price": 730,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "E. Fernandes",
+    "club": "1. FSV Mainz 05",
+    "points": 39,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Caci",
+    "club": "1. FSV Mainz 05",
+    "points": 50,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Aarón Martín",
+    "club": "1. FSV Mainz 05",
+    "points": 74,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "da Costa",
+    "club": "1. FSV Mainz 05",
+    "points": 12,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 860,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hanche-Olsen",
+    "club": "1. FSV Mainz 05",
+    "points": 4,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "A. Hack",
+    "club": "1. FSV Mainz 05",
+    "points": 22,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Barreiro",
+    "club": "1. FSV Mainz 05",
+    "points": 37,
+    "matches": "17 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "J. Lee",
+    "club": "1. FSV Mainz 05",
+    "points": 69,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "D. Kohr",
+    "club": "1. FSV Mainz 05",
+    "points": 51,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stach",
+    "club": "1. FSV Mainz 05",
+    "points": 57,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "E. Shabani",
+    "club": "1. FSV Mainz 05",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Barkok",
+    "club": "1. FSV Mainz 05",
+    "points": 20,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Weiper",
+    "club": "1. FSV Mainz 05",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 460,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gruda",
+    "club": "1. FSV Mainz 05",
+    "points": -1,
+    "matches": "2 (1)",
+    "pointsPerMatch": null,
+    "price": 260,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Burgzorg",
+    "club": "1. FSV Mainz 05",
+    "points": 9,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 290,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mustapha",
+    "club": "1. FSV Mainz 05",
+    "points": 4,
+    "matches": "5 (4)",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ingvartsen",
+    "club": "1. FSV Mainz 05",
+    "points": 46,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Burkardt",
+    "club": "1. FSV Mainz 05",
+    "points": 27,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Onisiwo",
+    "club": "1. FSV Mainz 05",
+    "points": 82,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ajorque",
+    "club": "1. FSV Mainz 05",
+    "points": 6,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Riemann",
+    "club": "VfL Bochum",
+    "points": 39,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Johansson",
+    "club": "VfL Bochum",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Grave",
+    "club": "VfL Bochum",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Esser",
+    "club": "VfL Bochum",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lampropoulos",
+    "club": "VfL Bochum",
+    "points": 7,
+    "matches": "10 (7)",
+    "pointsPerMatch": null,
+    "price": 330,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mašović",
+    "club": "VfL Bochum",
+    "points": 33,
+    "matches": "15 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gamboa",
+    "club": "VfL Bochum",
+    "points": 27,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": 470,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Janko",
+    "club": "VfL Bochum",
+    "points": 0,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": 820,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ordets",
+    "club": "VfL Bochum",
+    "points": 24,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tolba",
+    "club": "VfL Bochum",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Heintz",
+    "club": "VfL Bochum",
+    "points": -1,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": 250,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stafylidis",
+    "club": "VfL Bochum",
+    "points": 19,
+    "matches": "9 (9)",
+    "pointsPerMatch": null,
+    "price": 850,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Danilo Soares",
+    "club": "VfL Bochum",
+    "points": 23,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "K. Schlotterbeck",
+    "club": "VfL Bochum",
+    "points": 16,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Losilla",
+    "club": "VfL Bochum",
+    "points": 38,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Góralski",
+    "club": "VfL Bochum",
+    "points": 4,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 310,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stöger",
+    "club": "VfL Bochum",
+    "points": 66,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kunde",
+    "club": "VfL Bochum",
+    "points": 11,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Förster",
+    "club": "VfL Bochum",
+    "points": 49,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Osterhage",
+    "club": "VfL Bochum",
+    "points": 6,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": 380,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Osei-Tutu",
+    "club": "VfL Bochum",
+    "points": 15,
+    "matches": "15 (14)",
+    "pointsPerMatch": null,
+    "price": 690,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "P. Hofmann",
+    "club": "VfL Bochum",
+    "points": 89,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Zoller",
+    "club": "VfL Bochum",
+    "points": 40,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ganvoula",
+    "club": "VfL Bochum",
+    "points": 15,
+    "matches": "11 (10)",
+    "pointsPerMatch": null,
+    "price": 430,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Antwi-Adjei",
+    "club": "VfL Bochum",
+    "points": 50,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Holtmann",
+    "club": "VfL Bochum",
+    "points": 34,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Asano",
+    "club": "VfL Bochum",
+    "points": 12,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Broschinski",
+    "club": "VfL Bochum",
+    "points": 9,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "T. Horn",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schwäbe",
+    "club": "1. FC Köln",
+    "points": 29,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Köbbing",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Smajić",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Soldo",
+    "club": "1. FC Köln",
+    "points": 10,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": 990,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "K. Pedersen",
+    "club": "1. FC Köln",
+    "points": 6,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kilian",
+    "club": "1. FC Köln",
+    "points": 10,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": 460,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schindler",
+    "club": "1. FC Köln",
+    "points": 14,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": 500,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Strauch",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hübers",
+    "club": "1. FC Köln",
+    "points": 34,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "B. Schmitz",
+    "club": "1. FC Köln",
+    "points": 41,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hector",
+    "club": "1. FC Köln",
+    "points": 55,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Chabot",
+    "club": "1. FC Köln",
+    "points": 37,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Huseinbašić",
+    "club": "1. FC Köln",
+    "points": 26,
+    "matches": "12 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Martel",
+    "club": "1. FC Köln",
+    "points": 24,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ljubičić",
+    "club": "1. FC Köln",
+    "points": 41,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Skhiri",
+    "club": "1. FC Köln",
+    "points": 83,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Limnios",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 240,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schwirten",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Maina",
+    "club": "1. FC Köln",
+    "points": 48,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kainz",
+    "club": "1. FC Köln",
+    "points": 89,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Olesen",
+    "club": "1. FC Köln",
+    "points": 7,
+    "matches": "7 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Schmid",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dietz",
+    "club": "1. FC Köln",
+    "points": 13,
+    "matches": "11 (10)",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tigges",
+    "club": "1. FC Köln",
+    "points": 56,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Uth",
+    "club": "1. FC Köln",
+    "points": 4,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lemperle",
+    "club": "1. FC Köln",
+    "points": 4,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": 520,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Thielmann",
+    "club": "1. FC Köln",
+    "points": 22,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "S. Andersson",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Adamyan",
+    "club": "1. FC Köln",
+    "points": 22,
+    "matches": "16 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Selke",
+    "club": "1. FC Köln",
+    "points": 30,
+    "matches": "17 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Diehl",
+    "club": "1. FC Köln",
+    "points": 0,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 560,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lord",
+    "club": "SV Werder Bremen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pavlenka",
+    "club": "SV Werder Bremen",
+    "points": 38,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Backhaus",
+    "club": "SV Werder Bremen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dudu",
+    "club": "SV Werder Bremen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Zetterer",
+    "club": "SV Werder Bremen",
+    "points": 5,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mbom",
+    "club": "SV Werder Bremen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 310,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pieper",
+    "club": "SV Werder Bremen",
+    "points": 45,
+    "matches": "18 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Agu",
+    "club": "SV Werder Bremen",
+    "points": -2,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Chiarodia",
+    "club": "SV Werder Bremen",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 260,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Buchanan",
+    "club": "SV Werder Bremen",
+    "points": 23,
+    "matches": "13 (11)",
+    "pointsPerMatch": null,
+    "price": 750,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Friedl",
+    "club": "SV Werder Bremen",
+    "points": 38,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "N. Stark",
+    "club": "SV Werder Bremen",
+    "points": 36,
+    "matches": "14 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "A. Jung",
+    "club": "SV Werder Bremen",
+    "points": 47,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Veljković",
+    "club": "SV Werder Bremen",
+    "points": 44,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Weiser",
+    "club": "SV Werder Bremen",
+    "points": 65,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stage",
+    "club": "SV Werder Bremen",
+    "points": 34,
+    "matches": "18 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Salifou",
+    "club": "SV Werder Bremen",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 220,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bittencourt",
+    "club": "SV Werder Bremen",
+    "points": 24,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "N. Schmidt",
+    "club": "SV Werder Bremen",
+    "points": 28,
+    "matches": "11 (10)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "R. Schmid",
+    "club": "SV Werder Bremen",
+    "points": 19,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": 710,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gruev",
+    "club": "SV Werder Bremen",
+    "points": 29,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "C. Groß",
+    "club": "SV Werder Bremen",
+    "points": 29,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dinkçi",
+    "club": "SV Werder Bremen",
+    "points": 4,
+    "matches": "7 (7)",
+    "pointsPerMatch": null,
+    "price": 580,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ducksch",
+    "club": "SV Werder Bremen",
+    "points": 89,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Philipp",
+    "club": "SV Werder Bremen",
+    "points": 6,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Füllkrug",
+    "club": "SV Werder Bremen",
+    "points": 125,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schock",
+    "club": "VfB Stuttgart",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "F. Müller",
+    "club": "VfB Stuttgart",
+    "points": 20,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Glaus",
+    "club": "VfB Stuttgart",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bredlow",
+    "club": "VfB Stuttgart",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mavropanos",
+    "club": "VfB Stuttgart",
+    "points": 96,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Aidonis",
+    "club": "VfB Stuttgart",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "B. Sosa",
+    "club": "VfB Stuttgart",
+    "points": 48,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Vagnoman",
+    "club": "VfB Stuttgart",
+    "points": 5,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": 980,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ito",
+    "club": "VfB Stuttgart",
+    "points": 50,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Zagadou",
+    "club": "VfB Stuttgart",
+    "points": 11,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stenzel",
+    "club": "VfB Stuttgart",
+    "points": 23,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Anton",
+    "club": "VfB Stuttgart",
+    "points": 44,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Millot",
+    "club": "VfB Stuttgart",
+    "points": 17,
+    "matches": "11 (10)",
+    "pointsPerMatch": null,
+    "price": 880,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Beyaz",
+    "club": "VfB Stuttgart",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 280,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Egloff",
+    "club": "VfB Stuttgart",
+    "points": 16,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": 660,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Silas",
+    "club": "VfB Stuttgart",
+    "points": 35,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "W. Endo",
+    "club": "VfB Stuttgart",
+    "points": 74,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Karazor",
+    "club": "VfB Stuttgart",
+    "points": 39,
+    "matches": "16 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ulrich",
+    "club": "VfB Stuttgart",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 310,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Führich",
+    "club": "VfB Stuttgart",
+    "points": 55,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nartey",
+    "club": "VfB Stuttgart",
+    "points": 5,
+    "matches": "6 (6)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Haraguchi",
+    "club": "VfB Stuttgart",
+    "points": 24,
+    "matches": "12 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Perea",
+    "club": "VfB Stuttgart",
+    "points": 8,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": 730,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kastanaras",
+    "club": "VfB Stuttgart",
+    "points": 2,
+    "matches": "4 (3)",
+    "pointsPerMatch": null,
+    "price": 720,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tiago Tomás",
+    "club": "VfB Stuttgart",
+    "points": 38,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kuol",
+    "club": "VfB Stuttgart",
+    "points": 0,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "T. Coulibaly",
+    "club": "VfB Stuttgart",
+    "points": 5,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": 690,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pfeiffer",
+    "club": "VfB Stuttgart",
+    "points": 7,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Guirassy",
+    "club": "VfB Stuttgart",
+    "points": 55,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Gil Dias",
+    "club": "VfB Stuttgart",
+    "points": 2,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dimmer",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Omlin",
+    "club": "Borussia M'gladbach",
+    "points": 14,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sippel",
+    "club": "Borussia M'gladbach",
+    "points": -2,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 350,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Brüll",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Olschowsky",
+    "club": "Borussia M'gladbach",
+    "points": 8,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": 590,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bensebaini",
+    "club": "Borussia M'gladbach",
+    "points": 95,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lainer",
+    "club": "Borussia M'gladbach",
+    "points": 4,
+    "matches": "7 (5)",
+    "pointsPerMatch": null,
+    "price": 860,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Walde",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Netz",
+    "club": "Borussia M'gladbach",
+    "points": 3,
+    "matches": "8 (5)",
+    "pointsPerMatch": null,
+    "price": 490,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Doucouré",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Elvedi",
+    "club": "Borussia M'gladbach",
+    "points": 63,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "M. Friedrich",
+    "club": "Borussia M'gladbach",
+    "points": 30,
+    "matches": "15 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Itakura",
+    "club": "Borussia M'gladbach",
+    "points": 31,
+    "matches": "10 (9)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Jantschke",
+    "club": "Borussia M'gladbach",
+    "points": 4,
+    "matches": "5 (2)",
+    "pointsPerMatch": null,
+    "price": 260,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Scally",
+    "club": "Borussia M'gladbach",
+    "points": 27,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Koné",
+    "club": "Borussia M'gladbach",
+    "points": 54,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Noß",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "H. Wolf",
+    "club": "Borussia M'gladbach",
+    "points": 13,
+    "matches": "8 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Neuhaus",
+    "club": "Borussia M'gladbach",
+    "points": 13,
+    "matches": "9 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Weigl",
+    "club": "Borussia M'gladbach",
+    "points": 36,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kramer",
+    "club": "Borussia M'gladbach",
+    "points": 12,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hofmann",
+    "club": "Borussia M'gladbach",
+    "points": 119,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Fraulo",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Ngoumou",
+    "club": "Borussia M'gladbach",
+    "points": 7,
+    "matches": "10 (8)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Borges Sanches",
+    "club": "Borussia M'gladbach",
+    "points": 4,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 250,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stindl",
+    "club": "Borussia M'gladbach",
+    "points": 62,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Thuram",
+    "club": "Borussia M'gladbach",
+    "points": 95,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pléa",
+    "club": "Borussia M'gladbach",
+    "points": 57,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "P. Herrmann",
+    "club": "Borussia M'gladbach",
+    "points": 20,
+    "matches": "15 (10)",
+    "pointsPerMatch": null,
+    "price": 870,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Telalović",
+    "club": "Borussia M'gladbach",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 200,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pentz",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 440,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hradecky",
+    "club": "Bayer 04 Leverkusen",
+    "points": 37,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lunev",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Lomb",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kossounou",
+    "club": "Bayer 04 Leverkusen",
+    "points": 19,
+    "matches": "14 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bakker",
+    "club": "Bayer 04 Leverkusen",
+    "points": 31,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hincapié",
+    "club": "Bayer 04 Leverkusen",
+    "points": 41,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Frimpong",
+    "club": "Bayer 04 Leverkusen",
+    "points": 74,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Fosu-Mensah",
+    "club": "Bayer 04 Leverkusen",
+    "points": 8,
+    "matches": "7 (5)",
+    "pointsPerMatch": null,
+    "price": 380,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tapsoba",
+    "club": "Bayer 04 Leverkusen",
+    "points": 51,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Sinkgraven",
+    "club": "Bayer 04 Leverkusen",
+    "points": 6,
+    "matches": "6 (4)",
+    "pointsPerMatch": null,
+    "price": 350,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tah",
+    "club": "Bayer 04 Leverkusen",
+    "points": 39,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Demirbay",
+    "club": "Bayer 04 Leverkusen",
+    "points": 51,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Andrich",
+    "club": "Bayer 04 Leverkusen",
+    "points": 48,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Mbamba",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Amiri",
+    "club": "Bayer 04 Leverkusen",
+    "points": 35,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Azhil",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 210,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Charles Aránguiz",
+    "club": "Bayer 04 Leverkusen",
+    "points": 25,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": 860,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Aourir",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 320,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Wirtz",
+    "club": "Bayer 04 Leverkusen",
+    "points": 10,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Palacios",
+    "club": "Bayer 04 Leverkusen",
+    "points": 44,
+    "matches": "14 (14)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Eze",
+    "club": "Bayer 04 Leverkusen",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 190,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hudson-Odoi",
+    "club": "Bayer 04 Leverkusen",
+    "points": 21,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Hložek",
+    "club": "Bayer 04 Leverkusen",
+    "points": 47,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Azmoun",
+    "club": "Bayer 04 Leverkusen",
+    "points": 13,
+    "matches": "10 (10)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Adli",
+    "club": "Bayer 04 Leverkusen",
+    "points": 29,
+    "matches": "12 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Schick",
+    "club": "Bayer 04 Leverkusen",
+    "points": 22,
+    "matches": "11 (11)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Diaby",
+    "club": "Bayer 04 Leverkusen",
+    "points": 91,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bellarabi",
+    "club": "Bayer 04 Leverkusen",
+    "points": 2,
+    "matches": "5 (3)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Pentke",
+    "club": "TSG Hoffenheim",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Noll",
+    "club": "TSG Hoffenheim",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 160,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "L. Philipp",
+    "club": "TSG Hoffenheim",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 170,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Baumann",
+    "club": "TSG Hoffenheim",
+    "points": 38,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bičakčić",
+    "club": "TSG Hoffenheim",
+    "points": -1,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": 660,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Angeliño",
+    "club": "TSG Hoffenheim",
+    "points": 62,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Quarshie",
+    "club": "TSG Hoffenheim",
+    "points": 0,
+    "matches": "1 (0)",
+    "pointsPerMatch": null,
+    "price": 230,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kabak",
+    "club": "TSG Hoffenheim",
+    "points": 63,
+    "matches": "17 (17)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Che",
+    "club": "TSG Hoffenheim",
+    "points": 0,
+    "matches": "-",
+    "pointsPerMatch": null,
+    "price": 180,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Nsoki",
+    "club": "TSG Hoffenheim",
+    "points": 12,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Vogt",
+    "club": "TSG Hoffenheim",
+    "points": 35,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Quaresma",
+    "club": "TSG Hoffenheim",
+    "points": 5,
+    "matches": "4 (3)",
+    "pointsPerMatch": null,
+    "price": 440,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kadeřábek",
+    "club": "TSG Hoffenheim",
+    "points": 26,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Akpoguma",
+    "club": "TSG Hoffenheim",
+    "points": 34,
+    "matches": "15 (15)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Brooks",
+    "club": "TSG Hoffenheim",
+    "points": 0,
+    "matches": "2 (2)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "F. Becker",
+    "club": "TSG Hoffenheim",
+    "points": 2,
+    "matches": "2 (1)",
+    "pointsPerMatch": null,
+    "price": 410,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Damar",
+    "club": "TSG Hoffenheim",
+    "points": 3,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": 330,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bischof",
+    "club": "TSG Hoffenheim",
+    "points": 9,
+    "matches": "5 (5)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Stiller",
+    "club": "TSG Hoffenheim",
+    "points": 19,
+    "matches": "13 (12)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Tohumcu",
+    "club": "TSG Hoffenheim",
+    "points": 1,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": 580,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Delaney",
+    "club": "TSG Hoffenheim",
+    "points": 2,
+    "matches": "1 (1)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Skov",
+    "club": "TSG Hoffenheim",
+    "points": 59,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Baumgartner",
+    "club": "TSG Hoffenheim",
+    "points": 73,
+    "matches": "19 (19)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Rudy",
+    "club": "TSG Hoffenheim",
+    "points": 22,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Prömel",
+    "club": "TSG Hoffenheim",
+    "points": 32,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Geiger",
+    "club": "TSG Hoffenheim",
+    "points": 47,
+    "matches": "16 (16)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Kramarić",
+    "club": "TSG Hoffenheim",
+    "points": 59,
+    "matches": "18 (18)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dabbur",
+    "club": "TSG Hoffenheim",
+    "points": 48,
+    "matches": "13 (13)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bruun Larsen",
+    "club": "TSG Hoffenheim",
+    "points": 11,
+    "matches": "11 (10)",
+    "pointsPerMatch": null,
+    "price": 360,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Bebou",
+    "club": "TSG Hoffenheim",
+    "points": 15,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Asllani",
+    "club": "TSG Hoffenheim",
+    "points": 1,
+    "matches": "3 (3)",
+    "pointsPerMatch": null,
+    "price": 370,
+    "date": "Sat Feb 11 2023"
+  },
+  {
+    "name": "Dolberg",
+    "club": "TSG Hoffenheim",
+    "points": 5,
+    "matches": "4 (4)",
+    "pointsPerMatch": null,
+    "price": null,
+    "date": "Sat Feb 11 2023"
+  }
+]
